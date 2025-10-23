@@ -1,5 +1,10 @@
 APA 7th Edition:
-Awais, Mehak. (2024). Digital physiotherapy: Evaluating tele-rehabilitation as a tool for accessible public health services. GitHub Repository.
+
+**Author:** [Mehak Awais](https://github.com/mehakawais)  
+**Year:** 2024  
+**Type:** Research Paper / Technical Report 
+
+Digital physiotherapy: Evaluating tele-rehabilitation as a tool for accessible public health services. GitHub Repository.
 
 👉 https://github.com/mehakawais/Digital-Physiotherapy-Evaluating-Tele-Rehabilitation-as-a-tool-for-Accessible-Public-Health-Services
 
