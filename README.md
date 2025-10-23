@@ -36,4 +36,4 @@ Integrate tele-rehabilitation into primary and community healthcare systems for 
 
 Relevance
 
-This research contributes to the evolving field of digital rehabilitation and public health, providing a foundation for future policy, education, and clinical research. It emphasizes how technology can advance universal health coverage, especially in regions with limited access to traditional rehabilitation services
+This research contributes to the evolving field of digital rehabilitation and public health, providing a foundation for future policy, education, and clinical research. It emphasizes how technology can advance universal health coverage, especially in regions with limited access to traditional rehabilitation services.
