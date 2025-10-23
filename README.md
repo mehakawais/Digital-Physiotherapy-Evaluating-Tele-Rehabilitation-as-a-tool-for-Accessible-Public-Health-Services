@@ -1,26 +1,39 @@
-Abstract
+APA 7th Edition:
+Awais, Mehak. (2024). Digital physiotherapy: Evaluating tele-rehabilitation as a tool for accessible public health services. GitHub Repository.
 
-The COVID-19 pandemic revolutionized digital healthcare delivery, propelling tele-rehabilitation into mainstream practice. This paper explores how digital physiotherapy enhances accessibility, affordability, and equity in healthcare. Drawing on global studies (2018–2024) within the frameworks of WHO’s Rehabilitation 2030 and the UN Sustainable Development Goals, it demonstrates that tele-rehabilitation yields outcomes comparable to conventional therapy while vastly extending reach. Yet, challenges persist—limited internet coverage, inadequate digital literacy, and policy gaps hinder widespread adoption. To transform tele-rehabilitation into a sustainable pillar of public health, nations must invest in digital infrastructure, clinician training, and robust data-protection mechanisms.
+👉 https://github.com/mehakawais/Digital-Physiotherapy-Evaluating-Tele-Rehabilitation-as-a-tool-for-Accessible-Public-Health-Services
 
-Introduction
+Overview
 
-Rehabilitation is an essential component of universal health coverage but often receives insufficient attention. Tele-rehabilitation, encompassing video consultations, mobile-health applications, and remote monitoring, provides a flexible means to continue physiotherapy beyond clinical walls. Evidence increasingly affirms that online physiotherapy is equally effective as in-person care for musculoskeletal pain, neurological rehabilitation, and post-operative recovery. Endorsed by WHO’s Rehabilitation 2030 initiative, this digital shift strengthens accessibility, minimizes inequalities, and integrates rehabilitation into global health agendas.
+This study investigates how digital physiotherapy and tele-rehabilitation can enhance accessibility and equity in healthcare delivery, especially within public health frameworks. It aligns with the World Health Organization’s “Rehabilitation 2030” initiative and the United Nations Sustainable Development Goals (SDGs), focusing on digital transformation and inclusion in rehabilitation systems.
 
 Objectives
 
-Examine tele-rehabilitation’s contribution to equitable physiotherapy access.
-Evaluate its clinical efficacy and cost-effectiveness.
-Identify systemic and technological barriers to large-scale implementation.
+To evaluate the effectiveness of tele-rehabilitation compared with conventional in-person physiotherapy.
+To assess its influence on accessibility, cost-efficiency, and patient engagement.
+To identify barriers and policy gaps affecting large-scale adoption of digital rehabilitation in public health.
 
-Results and Discussion
+Key Findings
 
-Tele-rehabilitation bridges the care divide for individuals in rural, remote, or underserved regions, eliminating the need for travel while maintaining therapeutic quality. Research consistently shows heightened patient engagement, improved adherence, and satisfaction rates. Clinical outcomes parallel traditional rehabilitation, with cost savings averaging 25–35%.
-However, digital disparities, fragmented policies, and data-security vulnerabilities remain pressing concerns. Effective integration demands strategic governmental action: expanding broadband access, enhancing digital competency among health professionals, and enforcing rigorous data-privacy standards.
+Comparable Clinical Outcomes: Tele-rehabilitation yields similar therapeutic outcomes to traditional physiotherapy for musculoskeletal, neurological, and post-operative conditions.
+Improved Accessibility: Extends rehabilitation services to rural and remote populations, minimizing travel and enhancing continuity of care.
+Economic Benefits: Demonstrates cost savings averaging 25–35%, making rehabilitation more affordable.
+Patient Engagement: Higher adherence and satisfaction observed in digitally guided home-based sessions.
 
-Public Health Impact
+Challenges Identified
 
-Tele-rehabilitation strengthens preventive health, functional independence, and chronic disease management. By embedding digital rehabilitation into primary health systems, countries can curb long-term healthcare expenditure, improve service continuity, and uplift the quality of life for populations with disabilities or chronic conditions. Its community-based approach aligns with the core values of equity, inclusion, and sustainability central to public health.
+Inadequate internet and digital infrastructure in low-resource areas.
+Limited digital literacy among patients and healthcare providers.
+Weak legal and ethical frameworks for data privacy and tele-health regulation.
+Poor integration of digital systems into existing healthcare networks.
 
-Conclusion
+Recommendations
 
-Tele-rehabilitation has evolved beyond an emergency-era remedy into a transformative, enduring strategy for public-health advancement. With coordinated investments in training, technology, and regulation, digital physiotherapy can democratize access to rehabilitation services, ensuring that no individual is excluded from essential care in the digital age
+Expand broadband coverage and tele-health infrastructure to support nationwide implementation.
+Include digital rehabilitation training within physiotherapy and occupational therapy education.
+Establish national policy frameworks ensuring privacy, equity, and ethical practice in tele-health.
+Integrate tele-rehabilitation into primary and community healthcare systems for sustainable service delivery.
+
+Relevance
+
+This research contributes to the evolving field of digital rehabilitation and public health, providing a foundation for future policy, education, and clinical research. It emphasizes how technology can advance universal health coverage, especially in regions with limited access to traditional rehabilitation services
